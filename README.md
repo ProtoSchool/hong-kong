@@ -27,4 +27,4 @@ Twitter: [twitter.com/kk3wong](https://twitter.com/kk3wong)
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
 
-By participating in this project you agree to abide by its Code of Conduct.
+By participating in this project you agree to abide by its [Code of Conduct](https://github.com/ProtoSchool/hong-kong/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md).
