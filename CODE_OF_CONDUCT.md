@@ -52,6 +52,25 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
+## Procedure For Reporting Code of Conduct Incidents
+
+If you believe someone has violated our Code of Conduct, we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
+
+Make a report to the ProtoSchool Hong Kong Chapter **[protoschoolhk@gmail.com](mailto:protoschoolhk@gmail.com)**:
+ 
+**In case of a conflict of interest with the Hong Kong Chapter maintainers, or if you feel that this chapter's organizers are not living up to the standards laid out in our Code of Conduct, please follow the reporting procedures laid out in the broader [ProtoSchool Code of Conduct](https://github.com/ProtoSchool/organizing/blob/master/CODE_OF_CONDUCT.md) to reach the project's lead maintainers - [protoschool@protocol.ai](mailto:protoschool@protocol.ai)**
+
+#### When making a report you make a report via email or phone, please include:
+
+- Your contact info (so we can get in touch with you if we need to follow up)
+- Date and time of the incident
+- Location of incident
+- Whether the incident is ongoing
+- Description of the incident
+- Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number
+- Additional circumstances surrounding the incident
+- Other people involved in or witnesses to the incident and their contact information or description
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
@@ -74,3 +93,5 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+Our reporting procedure has been adapted from the Ada Initiative's guide titled "Conference anti-harassment/Responding to Reports”, the Django Project reporting guidelines (CC BY 3.0) and has been updated by ProtoSchool.
