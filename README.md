@@ -18,6 +18,8 @@ Everyone is welcome to join us and help to spread the amazing tech together!
 
 - [***Bitwork Community HK | Blockchain*** communities, consultants, advisors, investors and analysts ](https://www.meetup.com/Bitwork-Community-Blockchain) 
 
+- [***Weplus Cowork*** communities, trendy space, top service, incubation ](http://en.weplus.com) 
+
 ---
 
 ### Hong Kong's Organizer Team:
