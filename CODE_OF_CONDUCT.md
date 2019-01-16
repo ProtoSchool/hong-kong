@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# ProtoSchool Hong Kong Code of Conduct
 
 ## Our Pledge
 
