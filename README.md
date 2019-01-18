@@ -8,7 +8,7 @@ Hong Kong's Protoschool Chapter is a group of enthusiast to help out with all ki
 
 We mainly focus on [Protocol Labs](https://protocol.ai) related decentralized web protocols and tools (IPFS, IPLD, LibP2P, Multiformat, Filecoin, etc.)
 
-Everyone is welcome to join us and help to spread the amazing tech together! 
+Everyone is welcome to join us and help to spread the amazing tech together!
 
 ---
 
@@ -16,9 +16,9 @@ Everyone is welcome to join us and help to spread the amazing tech together!
 
 - [***Hong Kong IPFS Community*** community, meetups, and resources](https://www.meetup.com/Hong-Kong-IPFS-Meetup)
 
-- [***Bitwork Community HK | Blockchain*** communities, consultants, advisors, investors and analysts ](https://www.meetup.com/Bitwork-Community-Blockchain) 
+- [***Bitwork Community HK | Blockchain*** communities, consultants, advisors, investors and analysts ](https://www.meetup.com/Bitwork-Community-Blockchain)
 
-- [***Weplus Cowork*** communities, trendy space, top service, incubation ](http://en.weplus.com) 
+- [***Weplus Cowork*** communities, trendy space, top service, incubation ](http://en.weplus.com)
 
 ---
 
@@ -27,6 +27,12 @@ Everyone is welcome to join us and help to spread the amazing tech together!
 ##### - Kevin Wong ([@kk3wong](https://github.com/kk3wong))
 Twitter: [twitter.com/kk3wong](https://twitter.com/kk3wong)
 
+### Code of Conduct
+
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
 
 By participating in this project you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+### License
+
+ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
