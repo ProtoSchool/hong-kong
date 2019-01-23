@@ -16,7 +16,7 @@ Everyone is welcome to join us and help to spread the amazing tech together!
 
 - [***Hong Kong IPFS Community*** community, meetups, and resources](https://www.meetup.com/Hong-Kong-IPFS-Meetup)
 
-- [***Bitwork Community HK | Blockchain*** communities, consultants, advisors, investors and analysts ](https://www.meetup.com/Bitwork-Community-Blockchain)
+- [***Bitwork Community HK | Blockchain*** communities, consultants, advisors, investors and analysts ](https://bitwork.asia)
 
 - [***Weplus Cowork*** communities, trendy space, top service, incubation ](http://en.weplus.com)
 
